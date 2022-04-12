@@ -1,7 +1,5 @@
 ## Integración con GitHub Actions- CI/CD Para desplegar uns aplicacion
 
-## Solución
-
 La solución utiliza los siguientes servicios:
 
 1.	[GitHub Actions](https://docs.github.com/en/actions) : Herramienta de orquestación de flujos de trabajo que albergará la canalización. 
