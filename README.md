@@ -74,6 +74,6 @@ Para desplegar la plantilla de CloudFormation, completa los siguientes pasos:
            - Rol de servicio para CodeDeploy
            - Grupos de seguridad para ALB y Amazon EC2
 
-## Configuración y pruebas de GitHub
+<!-- ## Configuración y pruebas de GitHub
 
-Para realizar las configuracion completa y realizar las pruebas, puede seguir el [La guía completa](https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2/) para configurar las acciones de GitHub y probar el flujo de CI/CD.
+Para realizar las configuración completa y realizar las pruebas, puede seguir el [La guía completa](https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2/) para configurar las acciones de GitHub y probar el flujo de CI/CD. -->
